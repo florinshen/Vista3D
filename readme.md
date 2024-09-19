@@ -2,6 +2,8 @@
 ## Vista3D: Unravel the 3D Darkside of a Single Image
 <img width="800" alt="vista3d-teaser" src="https://github.com/user-attachments/assets/5ee6f213-6cc2-4add-abd2-ff2c727a0116">
 
+[Qiuhong Shen](https://florinshen.github.io), [Xingyi Yang](https://adamdad.github.io/), Michael Bi Mi, [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)    
+National University of Singapore, Huawei Technologies Ltd
 
 ### [Arxiv](https://arxiv.org) | [Demo]()
 
